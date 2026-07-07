@@ -11,13 +11,24 @@
 wiki/
 ├── reviews/
 │   ├── 0701.md
-│   └── 0702.md
+│   ├── 0702.md
+│   ├── 0703.md
+│   ├── 0706.md
+│   ├── 0707.md
+│   └── w1m5 추가학습거리.md
 └── missions/
-    └── W1/
-        ├── W1M1.md
-        ├── W1M2.md
-        ├── W1M3.md
-        └── mtcars.csv
+    ├── W1/
+    │   ├── W1M1.md
+    │   ├── W1M2.md
+    │   ├── W1M3.md
+    │   └── mtcars.csv
+    └── W2/
+        ├── W2M1.md
+        ├── W2M2.md
+        ├── W2M3.md
+        ├── W2M4.md
+        ├── W2M5.md
+        └── W2M6.md
 ```
 
 - `reviews/` : 날짜별 회고 (`MMDD.md`)
@@ -33,6 +44,13 @@ wiki/
 | 07.02 | DA 수업 & ERD 작성 | [0702.md](reviews/0702.md) |
 | 07.03 | 과제 마무리 & 위키 구조 정리 | [0703.md](reviews/0703.md) |
 | 07.06 | DE 수업 (분산/병렬 컴퓨팅, 회고 방법론) | [0706.md](reviews/0706.md) |
+| 07.07 | W2M5 팀 활동 주제 선정 & W2M6 도커 준비 | [0707.md](reviews/0707.md) |
+
+### 추가학습거리
+
+| 미션 | 주제 | 링크 |
+| --- | --- | --- |
+| W2M5 | Predicting Election Results from Twitter Using Machine Learning Algorithms 소감 | [w1m5 추가학습거리.md](<reviews/w1m5 추가학습거리.md>) |
 
 ## ✍️ 회고 작성 규칙
 
@@ -65,3 +83,14 @@ wiki/
 | W1M1 | mtcars 데이터 분석 및 시각화 | [W1M1.md](missions/W1/W1M1.md) |
 | W1M2 | SQL 기초 | [W1M2.md](missions/W1/W1M2.md) |
 | W1M3 | GDP ETL 파이프라인 | [W1M3.md](missions/W1/W1M3.md) |
+
+### Week 2
+
+| 미션 | 제목 | 링크 |
+| --- | --- | --- |
+| W2M1 | multiprocessing.Pool | [W2M1.md](missions/W2/W2M1.md) |
+| W2M2 | multiprocessing.Process | [W2M2.md](missions/W2/W2M2.md) |
+| W2M3 | multiprocessing.Queue | [W2M3.md](missions/W2/W2M3.md) |
+| W2M4 | multiprocessing (Queue + Process) | [W2M4.md](missions/W2/W2M4.md) |
+| W2M5 | 워드클라우드 | [W2M5.md](missions/W2/W2M5.md) |
+| W2M6 | 데이터 프로덕트 배포 | [W2M6.md](missions/W2/W2M6.md) |
